@@ -9,7 +9,7 @@
 [node name="Node2D" type="Node2D" parent="."]
 
 [node name="Panel" type="Panel" parent="."]
-offset_left = 145.0
+offset_left = 551.0
 offset_top = 123.0
-offset_right = 573.0
+offset_right = 979.0
 offset_bottom = 365.0
