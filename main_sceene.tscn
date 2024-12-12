@@ -1,0 +1,15 @@
+[gd_scene format=3 uid="uid://cg6xucgiw6u82"]
+
+[node name="Node2D" type="Node2D"]
+
+[node name="ParallaxBackground" type="ParallaxBackground" parent="."]
+
+[node name="ParallaxLayer" type="ParallaxLayer" parent="ParallaxBackground"]
+
+[node name="Node2D" type="Node2D" parent="."]
+
+[node name="Panel" type="Panel" parent="."]
+offset_left = 145.0
+offset_top = 123.0
+offset_right = 573.0
+offset_bottom = 365.0
