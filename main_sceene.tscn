@@ -13,3 +13,5 @@ offset_left = 551.0
 offset_top = 123.0
 offset_right = 979.0
 offset_bottom = 365.0
+
+[node name="TEST" type="Node2D" parent="."]
